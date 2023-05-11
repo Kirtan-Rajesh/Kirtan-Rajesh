@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello There!!, Kirtan here Kirtan Rajesh</h1>
 <h3 align="center">A Computer Science UnderGrad trying to explore the World of Programming</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
 
 - 🌱 I’m currently learning Web dev and Machine Learning **Web development and Machine Learning**
