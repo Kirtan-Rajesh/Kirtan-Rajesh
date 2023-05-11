@@ -1,10 +1,13 @@
+
+
 <h1 align="center">Hello There!!, Kirtan here Kirtan Rajesh</h1>
-
 <h3 align="center">A Computer Science UnderGrad trying to explore the World of Programming</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif
-">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
+- 🔭 I’m looking to collaborate on **Research topics on AI/ML**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirtan-rajesh" alt="kirtan-rajesh" /></a> </p>
+- 🌱 I’m currently learning Web dev and Machine Learning **Web development and Machine Learning**
+
+- 📫 How to reach me **kirtanrajesh@gmail.com**
 
 - 📄 Know more about my experiences [https://www.linkedin.com/in/kirtanrajesh/](https://www.linkedin.com/in/kirtanrajesh/)
 
@@ -22,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtan-rajesh&show_icons=true&locale=en" alt="kirtan-rajesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan-rajesh&" alt="kirtan-rajesh" /></p>
+
