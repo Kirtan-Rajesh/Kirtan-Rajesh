@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello There!!, Kirtan here Kirtan Rajesh</h1>
+<h1 align="center">Hello There!! Kirtan here Kirtan Rajesh</h1>
 <h3 align="center">A Computer Science UnderGrad trying to explore the World of Programming</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
