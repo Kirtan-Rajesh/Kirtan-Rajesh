@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
-- 🌱 I’m currently learning Web dev and Machine Learning **Web development and Machine Learning**
+- 🌱 I’m currently learning **Generative AI**, **Web development and Machine Learning**
 - 📫 How to reach me **kirtanrajesh@gmail.com**
 - 📄 Know more about my experiences [https://www.linkedin.com/in/kirtanrajesh/](https://www.linkedin.com/in/kirtanrajesh/)
 
