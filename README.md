@@ -2,7 +2,7 @@
 
 <h1 align="left">Kirtan Rajesh</h1>
 <h3 align="left">A Computer Science UnderGrad trying to explore the World of Programming</h3>
-<img align="right" alt="Coding" width="250" src="![image](https://github.com/user-attachments/assets/884ae785-5268-485f-91ba-6107a2ec3f93)
+<img align="right" alt="Coding" width="250" src="![midoriya-izuku-anime-stud](https://github.com/user-attachments/assets/1cbb6638-af9c-4db9-ada1-671dd0cae84e)
 ">
 
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
