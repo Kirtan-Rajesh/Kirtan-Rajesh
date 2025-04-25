@@ -2,7 +2,7 @@
 
 <h1 align="left">Kirtan Rajesh</h1>
 <h3 align="left">A Computer Science UnderGrad trying to explore the World of Programming</h3>
-<img align="right" alt="Coding" width="250" src="[https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif](https://media.tenor.com/gdH4hglVqJ4AAAAM/deku.gif)">
+<img align="right" alt="Coding" width="250" src="[[https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif](https://media.tenor.com/gdH4hglVqJ4AAAAM/deku.gif)](https://www.google.com/imgres?q=gif%20animated%20guy%20doing%20research&imgurl=https%3A%2F%2Fmedia.tenor.com%2Fzk6OuE-RGngAAAAM%2Fmidoriya-izuku-anime-stud.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Festudiar-anime-gifs&docid=hK3Ys2WE8ifKvM&tbnid=v1xGPMeTqEmXuM&vet=12ahUKEwi6xb299vKMAxVR4jgGHSmBMXcQM3oECFgQAA..i&w=220&h=120&hcb=2&ved=2ahUKEwi6xb299vKMAxVR4jgGHSmBMXcQM3oECFgQAA)">
 
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
 - 🌱 I’m currently learning **Generative AI**, **Web development and Machine Learning**
