@@ -2,8 +2,7 @@
 
 <h1 align="left">Kirtan Rajesh</h1>
 <h3 align="left">A Computer Science UnderGrad trying to explore the World of Programming</h3>
-<img align="right" alt="Coding" width="250" src="![midoriya-izuku-anime-stud](https://github.com/user-attachments/assets/1cbb6638-af9c-4db9-ada1-671dd0cae84e)
-">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
 - 🌱 I’m currently learning **Generative AI**, **Web development and Machine Learning**
