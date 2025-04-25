@@ -6,8 +6,9 @@
 
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
 - 🌱 I’m currently learning **Generative AI**, **Web development and Machine Learning**
+- 📄 Know more about me [Kirtan Rajesh](https://kirtanrajesh.netlify.app/)
 - 📫 How to reach me **kirtanrajesh@gmail.com**
-- 📄 Know more about my experiences [https://www.linkedin.com/in/kirtanrajesh/](https://www.linkedin.com/in/kirtanrajesh/)
+- 📄 Know more about my experiences [LinkedIn](https://www.linkedin.com/in/kirtanrajesh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
