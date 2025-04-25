@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif">
 
 - 🔭 I’m looking to collaborate on **Research topics on AI/ML**
-- 🌱 I’m currently learning **Generative AI**, *Robotics* and Machine Learning**
+- 🌱 I’m currently learning **Generative AI**, **Robotics and Machine Learning**
 - 📄 Know more about me [Kirtan Rajesh](https://kirtanrajesh.netlify.app/)
 - 📫 How to reach me **kirtanrajesh@gmail.com**
 - 📄 Know more about my experiences [LinkedIn](https://www.linkedin.com/in/kirtanrajesh/)
