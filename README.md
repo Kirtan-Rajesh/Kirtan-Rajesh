@@ -1,51 +1,72 @@
-<h1 align="left">hey, it's Kirtan 👋</h1>
-<h3 align="left">building AI stuff that actually ships, not just prompts</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif">
+# hey, I'm Kirtan 🧠⚡
 
-```
-> whoami
-GenAI / Agentic AI Engineer. Building multi-agent systems, not toy demos.
+### building agentic AI systems that actually ship
 
-> currently.building
-mydoc.ai (AI health OS) + EMIOS (12-agent migration intelligence platform)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=GenAI+%2F+Agentic+AI+Engineer;LangGraph+%2B+RAG+%2B+Multi-Agent+Systems;Building+mydoc.ai+%26+EMIOS;IEEE+%2F+Elsevier+Published+Researcher" alt="Typing SVG" />
 
-> currently.learning
-LangGraph internals, AWS Bedrock, whatever ships production agents faster
+</div>
 
-> also.probably
-in the gym, or arguing that AI PMs > AI engineers on career paths
-```
+<br>
 
-- 🚀 shipping agentic AI systems (LangGraph, RAG, multi-agent orchestration)
-- 🧠 into research too, IEEE / Elsevier published, not just LinkedIn posts
-- 🌐 portfolio: [kirtanrajesh.netlify.app](https://kirtanrajesh.netlify.app/)
-- 💼 more about me: [LinkedIn](https://www.linkedin.com/in/kirtanrajesh/)
-- 📬 hit me up: kirtanrajesh@gmail.com
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<h3 align="left">stack i actually use:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
+**what I do**
+Software Developer + AI Solutions Engineer on a GenAI team. I build multi-agent pipelines, RAG systems, and production AI infra, not just chatbot wrappers.
 
-<h3 align="left">connect:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kirtanrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtanrajesh" height="30" width="40" /></a>
-<a href="https://instagram.com/kirtanrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtanrajesh" height="30" width="40" /></a>
-</p>
+**currently building**
+🩺 `mydoc.ai` — AI-first personal health OS
+🏗️ `EMIOS` — 12-agent LangGraph platform for cloud migration risk
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtan-rajesh&show_icons=true&locale=en&layout=compact" alt="kirtan-rajesh" /></p>
+**currently learning**
+AWS Bedrock, agent observability tooling, whatever gets agents to production faster
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtan-rajesh&show_icons=true&locale=en" alt="kirtan-rajesh" /></p>
+**off the clock**
+gym, fitness, and thinking way too hard about startup ideas
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan-rajesh&" alt="kirtan-rajesh" /></p>
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="220"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### tech I actually use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kirtanrajesh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtanrajesh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kirtanrajesh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirtanrajesh@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kirtan-rajesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtan-rajesh&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirtan-rajesh&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
