@@ -18,7 +18,7 @@
 Software Developer + AI Solutions Engineer on a GenAI team. I build multi-agent pipelines, RAG systems, and production AI infra, not just chatbot wrappers.
 
 **currently building**
-🩺 `mydoc.ai` — AI-first personal health OS
+🩺 `wellkept4u.ai` — AI-first personal health OS
 🏗️ `EMIOS` — 12-agent LangGraph platform for cloud migration risk
 
 **currently learning**
